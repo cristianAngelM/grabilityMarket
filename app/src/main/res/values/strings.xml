@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grability Store</string>
+    <string name="action_settings">Logout</string>
+    <string name="company">Company</string>
+    <string name="description">Description</string>
+    <string name="wishes">Lista de Deseos</string>
+    <string name="facebook_app_id">359096197770807</string>
+</resources>
